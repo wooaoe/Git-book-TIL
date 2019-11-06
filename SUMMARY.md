@@ -8,6 +8,7 @@
 * [Cloud Computing 과 AWS](cloud-computing-aws.md)
 * [JAVA](java.md)
 * [HTML](html/README.md)
+  * [HTML Day 2](html/html-day-2.md)
   * [HTML Day 1](html/html-day-1.md)
 * [Trend & New Tech](trend-and-new-tech.md)
 * [SQL](sql.md)
